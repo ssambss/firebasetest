@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ssambss/firebasetest.git/static/css/main.7f484107.css",
+    "main.js": "/ssambss/firebasetest.git/static/js/main.a7469a61.js",
+    "static/js/787.27dca720.chunk.js": "/ssambss/firebasetest.git/static/js/787.27dca720.chunk.js",
+    "index.html": "/ssambss/firebasetest.git/index.html",
+    "main.7f484107.css.map": "/ssambss/firebasetest.git/static/css/main.7f484107.css.map",
+    "main.a7469a61.js.map": "/ssambss/firebasetest.git/static/js/main.a7469a61.js.map",
+    "787.27dca720.chunk.js.map": "/ssambss/firebasetest.git/static/js/787.27dca720.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f484107.css",
+    "static/js/main.a7469a61.js"
+  ]
+}
